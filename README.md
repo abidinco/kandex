@@ -2,7 +2,7 @@
 Kandex is an android app made with react-native for Turkish laws.
 
 #### Demo
-<p  align="center">![sample.gif](sample.gif)</p>
+![sample.gif](sample.gif)
 
 **Including**: [Turkish Civil Code](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf), [Turkish Code of Obligations](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf)
 **~~Will be included~~**: TTK, Anayasa, HMK, TCK, CMK
